@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<math.h>
 void main(){
-printf("Hello World!\n");
-printf("Happy");
+	int a;
+	printf("Hello World!\n");
+	printf("Happy\n");
+	scanf("%d",&a);
+	printf("%d",a);
 }
